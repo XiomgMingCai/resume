@@ -8,3 +8,9 @@
 out
 gen
 node_modules
+/code.html
+/highlight.pack.js
+/居中大法.html
+/node_modules/
+/css/highlight.css
+/css/monokai-sublime.css
