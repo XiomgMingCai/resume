@@ -15,7 +15,7 @@ header a:hover {
   color: #000;
 }
 html {
-  background-color: #d9d9da;
+   background: url(http://bubkoo.com/images/bg.jpg) fixed repeat center top #f0f0f0;
 }
 body {
   width: 650px;
