@@ -52,3 +52,8 @@ p {
 footer .cf {
   font-size: 15px;
 }
+@media print {
+  title{
+    display: none;
+  }
+}
